@@ -1,0 +1,28 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+pre{
+    border: 1px solid; 
+    border-radius: 5px;
+    padding: 5px;
+    background-color: aliceblue;
+    overflow: auto;
+}
+.ascii-art-web{
+    max-width: 600px;
+}
+.error404{
+    text-align: center;
+}
+.error400{
+    text-align: center;
+}
+.error500{
+    text-align: center;
+}
